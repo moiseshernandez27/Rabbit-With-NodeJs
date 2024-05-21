@@ -9,10 +9,6 @@ Before running the application, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
 
-    ```bash
-    git clone https://github.com/yourusername/rabbitmq-nodejs.git
-    ```
-
 2. Navigate to the project directory:
 
     ```bash
